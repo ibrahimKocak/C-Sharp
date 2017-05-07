@@ -301,3 +301,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.csproj
+SimplexAlgorithm/SimplexAlgorithm/Properties/AssemblyInfo.cs
+*.config
+SimplexAlgorithm/SimplexAlgorithm.sln
